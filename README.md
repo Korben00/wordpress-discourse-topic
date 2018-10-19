@@ -1,4 +1,7 @@
 # wordpress-discourse-topic
+
+[![GuardRails badge](https://badges.production.guardrails.io/Korben00/wordpress-discourse-topic.svg)](https://www.guardrails.io)
+
 Saves a Discourse topic as a WordPress  post
 
 This plugin adds a Discourse topic meta-box to the WordPress admin screen. The meta-box accepts a URL for a Discourse
